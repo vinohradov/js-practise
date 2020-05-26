@@ -1,4 +1,5 @@
 # New app
+http://old.code.mu/tasks/javascript/base/osnovy-yazyka-javascript-dlya-novichkov.html
 
 ## Js задачки
 - на каждый номер задачи нужно создать свой файл с решением
