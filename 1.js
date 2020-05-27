@@ -1,3 +1,2 @@
-(function () {
-  // your code goes here
-})();
+var num = 3;
+alert(num);
