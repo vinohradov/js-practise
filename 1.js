@@ -1,3 +1,4 @@
 (function () {
-  // your code goes here
+    var arr = ['a', 'b', 'c'];
+    console.log(arr);
 })();
