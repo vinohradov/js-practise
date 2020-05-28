@@ -1,4 +1,8 @@
 (function () {
-    // your code goes here
-    console.log(5555);
+    var a = 10;
+    var b = 2;
+    console.log('task 2',a + b);
+    console.log('task 2',a - b);
+    console.log('task 2',a * b);
+    console.log('task 2',a / b);
 })();
