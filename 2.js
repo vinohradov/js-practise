@@ -1,4 +1,4 @@
 (function () {
-    // your code goes here
-    console.log(5555);
+    var a = 0;
+    if (a > 0) {console.log('Верно!');} else {console.log('Неверно!');}
 })();
