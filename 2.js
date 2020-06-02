@@ -1,4 +1,7 @@
 (function () {
-    // your code goes here
-    console.log(5555);
+    var i = 10;
+    while (i < 33) {
+        i++;
+        console.log(i);
+    }
 })();
